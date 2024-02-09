@@ -1,12 +1,12 @@
-title: My Amazing Podcast
-description: You'll hear me talk about amazing things!
-author: My Name
-email: my@email.com
+title: Annie are you okay?
+description: Generation X dads discuss schooling, parenting, and futures
+author: Vikas Jhunjhunwala
+email: vikas@sunshine-schools.com
 lang: en-us
-copyright: "&#x2117; &amp; &#xA9; 2020"
+copyright: "&#x2117; 2024"
 logo: /assets/img/logo.png
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/give-generously-intl"
+# url: "https://www.sunshineschool.in/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
